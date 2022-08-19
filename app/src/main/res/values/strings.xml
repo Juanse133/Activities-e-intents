@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="hint">Escriba un mensaje</string>
+    <string name="enviar">Envíar</string>
+</resources>
