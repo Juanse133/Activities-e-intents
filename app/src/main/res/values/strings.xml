@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Chat</string>
+    <string name="id_person1">Chat 1</string>
+    <string name="id_person2">Chat 2</string>
     <string name="hint">Escriba un mensaje</string>
     <string name="enviar">Envíar</string>
 </resources>
